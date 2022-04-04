@@ -1,0 +1,16 @@
+body{
+	background: url('bckl.png');
+	color: #fff;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.dark-mode {
+	background: url('bck.png');
+	color: #fff;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
